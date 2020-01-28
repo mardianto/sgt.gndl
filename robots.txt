@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sigitpratomo.com/sitemap.xml
+Host: https://sigitpratomo.com
